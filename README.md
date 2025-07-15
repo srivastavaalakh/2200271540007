@@ -79,7 +79,8 @@ npm run preview
 > Add screenshots in `/assets/screenshots` and embed them here using:
 
 ```md
-![Home](src/assets/screenshots/home.png)
+![Homepage Preview](assets/p1.png)
+![Homepage Preview](assets/p2.png)
 ```
 
 ---
